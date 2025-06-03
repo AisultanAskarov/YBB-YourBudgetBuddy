@@ -28,7 +28,7 @@ YBB is an iOS budgeting app that I’ve built using SwiftUI and CoreData. It off
 
 - Binding Patterns: `MVVM`, `Clean Architecture`
 - Frontend: `Swift`
-- Frameworks: `SwiftUI`, `CoreData`, `Combine`, `Push Notifications`, `Charts`
+- Frameworks: `SwiftUI`, `CoreData`, `CoreML`, `Combine`, `Push Notifications`, `Charts`
 - API's: `exchangeratesapi.io`
 
 ## 🔜 Upcoming Features:
